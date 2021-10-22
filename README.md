@@ -5,6 +5,7 @@ A tribute page for nicola tesla
 <section>
   Details about tesla:-  https://en.wikipedia.org/wiki/Nikola_Tesla<br>
   example :- https://codepen.io/freeCodeCamp/full/zNqgVx
+  freecodecamp page:- https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 </section>
 
 // !! IMPORTANT README:

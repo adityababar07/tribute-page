@@ -1,0 +1,23 @@
+#main{
+    background-color: rgb(226, 221, 221);
+}
+
+#title{
+    text-align: center;
+}
+
+#img-div{
+    background-color: whitesmoke;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#image{
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+
